@@ -1,0 +1,9 @@
+{
+    "name": "project-auto-sync",
+    "version": "1.0.0",
+    "description": "Auto-push changes to Git",
+    "main": "monitor.js",
+    "dependencies": {
+        "chokidar": "^3.5.3"
+    }
+}
